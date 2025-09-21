@@ -36,3 +36,42 @@ In the [Extracted_fonts](https://github.com/Deathstars/mustang-s550-ipc-hebrew/t
 ## Disclaimer
 
 This project is intended for research and personal use. Use at your own risk and always back up your original firmware before flashing any files to your vehicle.
+
+
+---
+
+## Images
+
+### Before: Cluster Without Hebrew Support
+
+**Image:** `IPC_Before_Hebrew.jpg`  
+*The instrument cluster display before adding Hebrew support.*
+
+![IPC Before Hebrew](https://github.com/Deathstars/mustang-s550-ipc-hebrew/raw/main/Images/IPC_Before_Hebrew.jpg)
+
+---
+
+### Music: Hebrew Song Title Display
+
+**Image:** `IPC_Music_Hebrew.jpg`  
+*Demonstrates proper Hebrew rendering for music track titles.*
+
+![Music Hebrew](https://github.com/Deathstars/mustang-s550-ipc-hebrew/raw/main/Images/IPC_Music_Hebrew.jpg)
+
+---
+
+### Phone Call: Hebrew Caller Name
+
+**Image:** `IPC_Phone_Hebrew.jpg`  
+*Displays a phone call screen with the caller’s name in Hebrew.*
+
+![Phone Hebrew](https://github.com/Deathstars/mustang-s550-ipc-hebrew/raw/main/Images/IPC_Phone_Hebrew.jpg)
+
+---
+
+### Reference: Hebrew Font Used
+
+**Image:** `Hebrew_Font_Sample.jpg`  
+*Reference view of the custom Hebrew font integrated into the IPC display.*
+
+![Font Sample](https://github.com/Deathstars/mustang-s550-ipc-hebrew/raw/main/Images/Hebrew_Font_Sample.jpg)

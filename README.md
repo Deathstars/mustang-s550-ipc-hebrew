@@ -47,7 +47,7 @@ This project is intended for research and personal use. Use at your own risk and
 **Image:** `IPC_Before_Hebrew.jpg`  
 *The instrument cluster display before adding Hebrew support.*
 
-![IPC Before Hebrew](https://github.com/Deathstars/mustang-s550-ipc-hebrew/raw/main/Images/IPC_Before_Hebrew.jpg)
+![IPC Before Hebrew](https://raw.githubusercontent.com/Deathstars/mustang-s550-ipc-hebrew/refs/heads/main/Images/Before.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ This project is intended for research and personal use. Use at your own risk and
 **Image:** `IPC_Music_Hebrew.jpg`  
 *Demonstrates proper Hebrew rendering for music track titles.*
 
-![Music Hebrew](https://github.com/Deathstars/mustang-s550-ipc-hebrew/raw/main/Images/IPC_Music_Hebrew.jpg)
+![Music Hebrew](https://raw.githubusercontent.com/Deathstars/mustang-s550-ipc-hebrew/refs/heads/main/Images/Music.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ This project is intended for research and personal use. Use at your own risk and
 **Image:** `IPC_Phone_Hebrew.jpg`  
 *Displays a phone call screen with the caller’s name in Hebrew.*
 
-![Phone Hebrew](https://github.com/Deathstars/mustang-s550-ipc-hebrew/raw/main/Images/IPC_Phone_Hebrew.jpg)
+![Phone Hebrew](https://raw.githubusercontent.com/Deathstars/mustang-s550-ipc-hebrew/refs/heads/main/Images/Phone_Call.jpg)
 
 ---
 
@@ -74,4 +74,4 @@ This project is intended for research and personal use. Use at your own risk and
 **Image:** `Hebrew_Font_Sample.jpg`  
 *Reference view of the custom Hebrew font integrated into the IPC display.*
 
-![Font Sample](https://github.com/Deathstars/mustang-s550-ipc-hebrew/raw/main/Images/Hebrew_Font_Sample.jpg)
+![Font Sample](https://raw.githubusercontent.com/Deathstars/mustang-s550-ipc-hebrew/refs/heads/main/Images/Font_File_view.jpg)

@@ -15,6 +15,29 @@ To install Hebrew language support on your IPC:
 
 ---
 
+## General Process of the research
+
+The following steps outline the process of the firmware reaserch:
+
+1. **Extract the Compressed BIN Image**  
+   Use [qvbf](https://github.com/zakharchenya/qvbf) to extract the compressed `.bin` image from the Ford VBF firmware.
+
+2. **Extract and Uncompress the Main File**  
+   - Use 7-Zip to extract the compressed TAR file from the `.bin`.
+   - Use 7-Zip again to uncompress the TAR contents.
+   - This will reveal the `bitmaps.bin` file, which contains all images and fonts used by the IPC firmware.
+
+3. **Extract Fonts**  
+   Run the provided Python script to extract the fonts from `bitmaps.bin`.
+
+4. **Edit Fonts/Images**  
+   Modify the extracted fonts and images as desired to add or update Hebrew support.
+
+5. **Repack Everything**  
+   Pack the modified files following the reverse order, generating updated firmware that can be flashed to your IPC.
+
+---
+
 ## Scripts
 
 ### [Extract_ttf_from_bin.py](https://github.com/Deathstars/mustang-s550-ipc-hebrew/blob/main/scripts/Extract_ttf_from_bin.py)

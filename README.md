@@ -1,4 +1,4 @@
-# Mustang S550 DIGITAL IPC Hebrew Support
+# Mustang S550 DIGITAL IPC Hebrew Support (Can be used to add another languages as well)
 
 Add Hebrew language support to the Mustang S550 instrument cluster (IPC) by modifying fonts and firmware for proper Hebrew display.
 
